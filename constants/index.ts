@@ -3,17 +3,17 @@ export const sidebarLinks = [
   {
     label: "Home",
     route: "/",
-    imgUrl: "/icons/Home.svg",
+    imgUrl: "/icons/home.svg",
   },
   {
     label: "Upcoming",
     route: "/upcoming",
-    imgUrl: "/icons/Upcoming.svg",
+    imgUrl: "/icons/upcoming.svg",
   },
   {
     label: "Previous",
     route: "/previous",
-    imgUrl: "/icons/Previous.svg",
+    imgUrl: "/icons/previous.svg",
   },
   {
     label: "Recordings",
